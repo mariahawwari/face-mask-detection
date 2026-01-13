@@ -60,3 +60,4 @@ The trained model (`mask_detector_model.h5`) was tested on new images, and succe
 test
 print(test)
 print(test)
+print(test)
